@@ -1,0 +1,17 @@
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\bin\Debug\net8.0-windows\GeometricFigures.exe
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\bin\Debug\net8.0-windows\GeometricFigures.deps.json
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\bin\Debug\net8.0-windows\GeometricFigures.runtimeconfig.json
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\bin\Debug\net8.0-windows\GeometricFigures.dll
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\bin\Debug\net8.0-windows\GeometricFigures.pdb
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.Form1.resources
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.csproj.GenerateResource.cache
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.AssemblyInfoInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.AssemblyInfo.cs
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.dll
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\refint\GeometricFigures.dll
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.pdb
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.genruntimeconfig.cache
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\ref\GeometricFigures.dll
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.Properties.Resources.resources
