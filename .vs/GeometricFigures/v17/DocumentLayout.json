@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|d:\\users\\maximiliano romero\\escritorio\\dise\u00F1o\\geometricfigures\\geometricfigures\\user\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\user\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|d:\\users\\maximiliano romero\\escritorio\\dise\u00F1o\\geometricfigures\\geometricfigures\\model\\regpoligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\model\\regpoligon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\geometricfigures\\user\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\user\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\geometricfigures\\user\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\controllers\\figurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\geometricfigures\\model\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\model\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\geometricfigures\\model\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\model\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|d:\\users\\maximiliano romero\\escritorio\\dise\u00F1o\\geometricfigures\\geometricfigures\\model\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\model\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|d:\\users\\maximiliano romero\\escritorio\\dise\u00F1o\\geometricfigures\\geometricfigures\\model\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D2F753-6441-4695-9FF8-DA2002F21AA9}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\model\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\Circle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Model\\Circle.cs",
+              "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\Circle.cs",
+              "RelativeToolTip": "GeometricFigures\\Model\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:57:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RegPoligon.cs",
               "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\RegPoligon.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Model\\RegPoligon.cs",
               "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\RegPoligon.cs",
               "RelativeToolTip": "GeometricFigures\\Model\\RegPoligon.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBsAAAAYAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:34:12.05Z",
+              "WhenOpened": "2024-05-04T07:00:45.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Triangle.cs",
               "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Model\\Triangle.cs",
               "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\Triangle.cs",
               "RelativeToolTip": "GeometricFigures\\Model\\Triangle.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:20:13.707Z",
               "EditorCaption": ""
@@ -82,27 +99,27 @@
               "RelativeDocumentMoniker": "GeometricFigures\\Controllers\\FigureController.cs",
               "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Controllers\\FigureController.cs",
               "RelativeToolTip": "GeometricFigures\\Controllers\\FigureController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T19:01:11.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\User\\Form1.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\User\\Form1.cs",
               "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\User\\Form1.cs",
               "RelativeToolTip": "GeometricFigures\\User\\Form1.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAIwGgAAAAUAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T02:54:15.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Square.cs",
               "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\dise\u00F1o\\GeometricFigures\\GeometricFigures\\Model\\Square.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Model\\Square.cs",

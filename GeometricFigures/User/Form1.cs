@@ -1,4 +1,5 @@
 using GeometricFigures.Controllers;
+using GeometricFigures.Interfaces;
 using GeometricFigures.Model;
 using Microsoft.VisualBasic;
 using System.Drawing.Text;
@@ -60,8 +61,7 @@ namespace GeometricFigures
         }
         private int GetCmbIndex()
         {
-            int index = comboBox1.SelectedIndex;
-            return index;
+            return comboBox1.SelectedIndex;
         }
         private void CircleSelected()
         {
@@ -119,13 +119,11 @@ namespace GeometricFigures
         }
         public double ShowArea()
         {
-            double area = figureController.ListFigure().Last().CalculateArea();
-            return area;
+            return figureController.ListFigure().Last().CalculateArea();
         }
         public double ShowPerimeter()
         {
-            double perimeter = figureController.ListFigure().Last().CalculatePerimeter();
-            return perimeter;
+            return figureController.ListFigure().Last().CalculatePerimeter();
         }
     }
 }

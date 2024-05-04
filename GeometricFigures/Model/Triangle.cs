@@ -28,11 +28,11 @@ namespace GeometricFigures.Model
             return side1 + side2 + side3; 
         }
 
+        public double SemiPerimeter() { return (side1 + side2 + side3) / 2; }
+
         public double CalculateArea() 
         {
-            double semiPerimeter = (side1 + side2 + side3) / 2;
-            double area = Math.Sqrt(semiPerimeter * (semiPerimeter - side1) * (semiPerimeter - side2) * (semiPerimeter - side3));
-            return area;
+            return Math.Sqrt(SemiPerimeter() * (SemiPerimeter() - side1) * (SemiPerimeter() - side2) * (SemiPerimeter() - side3));
         }
     }
 }

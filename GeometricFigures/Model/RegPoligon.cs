@@ -19,13 +19,19 @@ namespace GeometricFigures.Model
             this.sideQuantity = sideQuantity;
         }
 
-        public double CalculatePerimeter() { return side * sideQuantity; }
+        public double CalculatePerimeter() 
+        { 
+            return side * sideQuantity; 
+        }
+
+        public double CotTheta() 
+        {
+            return 1 / Math.Tan(Math.PI / sideQuantity); 
+        }
 
         public double CalculateArea() 
         {
-            double cotTheta = 1 / Math.Tan(Math.PI / sideQuantity);
-            double area = 0.25 * sideQuantity * Math.Pow(side, 2) * cotTheta;
-            return area; 
+            return 0.25 * sideQuantity * Math.Pow(side, 2) * CotTheta();
         }
     }
 }
