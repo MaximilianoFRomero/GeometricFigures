@@ -15,3 +15,4 @@ D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures
 D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.genruntimeconfig.cache
 D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\ref\GeometricFigures.dll
 D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.Properties.Resources.resources
+D:\Users\Maximiliano Romero\Escritorio\diseño\GeometricFigures\GeometricFigures\obj\Debug\net8.0-windows\GeometricFigures.sourcelink.json

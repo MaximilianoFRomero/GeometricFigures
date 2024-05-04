@@ -33,6 +33,11 @@ namespace GeometricFigures
                     label11.Text = ShowArea().ToString();
                     label12.Text = ShowPerimeter().ToString();
                     break;
+                case 3:
+                    figureController.NewFigure(new RegPoligon(double.Parse(textBox6.Text), Int32.Parse(textBox2.Text)));
+                    label11.Text = ShowArea().ToString();
+                    label12.Text = ShowPerimeter().ToString();
+                    break;
             }
         }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -48,6 +53,9 @@ namespace GeometricFigures
                 case 2:
                     TriangleSelected();
                     break;
+                case 3:
+                    RegPoligonSelected();
+                    break;
             }
         }
         private int GetCmbIndex()
@@ -61,6 +69,7 @@ namespace GeometricFigures
             textBox3.Enabled = false;
             textBox4.Enabled = false;
             textBox5.Enabled = false;
+            pictureBox1.Visible = true;
             pictureBox1.Image = Image.FromFile("../../Resources/circle.jpeg");
         }
         private void SquareSelected()
@@ -69,6 +78,7 @@ namespace GeometricFigures
             textBox3.Enabled = true;
             textBox4.Enabled = false;
             textBox5.Enabled = false;
+            pictureBox1.Visible = true;
             pictureBox1.Image = Image.FromFile("../../Resources/cuadrado.jpg");
         }
 
@@ -78,14 +88,25 @@ namespace GeometricFigures
             textBox3.Enabled = true;
             textBox4.Enabled = true;
             textBox5.Enabled = true;
+            pictureBox1.Visible = true;
             pictureBox1.Image = Image.FromFile("../../Resources/triangle.jpg");
+        }
+
+        private void RegPoligonSelected() 
+        {
+            InitScreen();
+            textBox2.Enabled = true;
+            textBox6.Enabled = true;
+            pictureBox1.Visible = false;
         }
         private void InitScreen()
         {
             textBox1.Enabled = false;
+            textBox2.Enabled = false;
             textBox3.Enabled = false;
             textBox4.Enabled = false;
             textBox5.Enabled = false;
+            textBox6.Enabled= false;
         }
         private void button2_Click(object sender, EventArgs e)
         {
